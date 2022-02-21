@@ -5,7 +5,13 @@
  * @Reference:
  */
 
-import '@/modes/singleton'
-import '@/modes/strategy'
-import '@/modes/proxy'
-import '@/modes/iterator'
+// import '@/modes/singleton'
+// import '@/modes/strategy'
+// import '@/modes/proxy'
+// import '@/modes/iterator'
+// import '@/modes/observer'
+// import '@/modes/observer1'
+
+import '@/modes/command'
+
+// import '@/pictures/index'

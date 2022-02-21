@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/galaxyxdzhu/design-mode#readme",
   "dependencies": {
+    "@types/fabric": "^4.5.7",
     "css-loader": "^6.6.0",
+    "fabric": "^5.2.1",
     "html-webpack-plugin": "^5.5.0",
     "path": "^0.12.7",
     "style-loader": "^3.3.1",

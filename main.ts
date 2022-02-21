@@ -12,6 +12,6 @@
 // import '@/modes/observer'
 // import '@/modes/observer1'
 
-import '@/modes/command'
+// import '@/modes/command'
 
-// import '@/pictures/index'
+import '@/pictures/index'

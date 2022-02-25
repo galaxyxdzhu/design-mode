@@ -1,16 +1,19 @@
-export default {
-    'move': {
-        excute(receiver, pos) {
-            receiver.move(pos)
-        }
-    },
-    'add': {
-        ele: '',
-        excute(receiver, type, data) {
-           ele =  receiver.add(type, data)
-        },
-        undo(receiver, type) {
-            receiver.remove(type)
-        }
-    }
-}
+/*
+ * @Description:
+ * @Author: galaxyxd
+ * @Date: 2022-02-22 10:03:45
+ * @Reference:
+ */
+// const commands = {
+//   // 画布
+//   canvas: ['add', 'remove', 'setBackground', 'setSize', 'setOrigin', 'setZoom'],
+//   subject: ['move', 'changeColor', 'scale', 'rotate', 'changeSize']
+// }
+
+// import { parseFontDeclaration } from "fabric/fabric-impl";
+
+// command(subject, 'cammand', data)
+
+// function(canvas) {
+//     canvas.on()
+// }
